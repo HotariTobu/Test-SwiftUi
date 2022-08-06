@@ -57,8 +57,8 @@
 		16A4292726BD953F00CD36A1 /* ListSwiftUIModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A4292526BD953F00CD36A1 /* ListSwiftUIModifiers.swift */; };
 		16A4292926BE075600CD36A1 /* ListSwiftUIEvents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A4292826BE075600CD36A1 /* ListSwiftUIEvents.swift */; };
 		16A4292A26BE075600CD36A1 /* ListSwiftUIEvents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A4292826BE075600CD36A1 /* ListSwiftUIEvents.swift */; };
-		16A52EB026BD1A2E004E6AF6 /* SwiftUI_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9D26BD1A2D004E6AF6 /* SwiftUI_TestApp.swift */; };
-		16A52EB126BD1A2E004E6AF6 /* SwiftUI_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9D26BD1A2D004E6AF6 /* SwiftUI_TestApp.swift */; };
+		16A52EB026BD1A2E004E6AF6 /* Test_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9D26BD1A2D004E6AF6 /* Test_SwiftUIApp.swift */; };
+		16A52EB126BD1A2E004E6AF6 /* Test_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9D26BD1A2D004E6AF6 /* Test_SwiftUIApp.swift */; };
 		16A52EB226BD1A2E004E6AF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9E26BD1A2D004E6AF6 /* ContentView.swift */; };
 		16A52EB326BD1A2E004E6AF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A52E9E26BD1A2D004E6AF6 /* ContentView.swift */; };
 		16A52EB426BD1A2E004E6AF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16A52E9F26BD1A2E004E6AF6 /* Assets.xcassets */; };
@@ -124,7 +124,7 @@
 		16962CC227754A8000A2AC09 /* YshiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YshiView.swift; sourceTree = "<group>"; };
 		16A4292526BD953F00CD36A1 /* ListSwiftUIModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwiftUIModifiers.swift; sourceTree = "<group>"; };
 		16A4292826BE075600CD36A1 /* ListSwiftUIEvents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListSwiftUIEvents.swift; sourceTree = "<group>"; };
-		16A52E9D26BD1A2D004E6AF6 /* SwiftUI_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_TestApp.swift; sourceTree = "<group>"; };
+		16A52E9D26BD1A2D004E6AF6 /* Test_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_SwiftUIApp.swift; sourceTree = "<group>"; };
 		16A52E9E26BD1A2D004E6AF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		16A52E9F26BD1A2E004E6AF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16A52EA426BD1A2E004E6AF6 /* Test-SwiftUi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test-SwiftUi.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -225,7 +225,7 @@
 				16063F7C27C7561400C49BCD /* FocusStateTestView.swift */,
 				1614281827C77F02002966E4 /* SystemColors.swift */,
 				16A52E9E26BD1A2D004E6AF6 /* ContentView.swift */,
-				16A52E9D26BD1A2D004E6AF6 /* SwiftUI_TestApp.swift */,
+				16A52E9D26BD1A2D004E6AF6 /* Test_SwiftUIApp.swift */,
 				16A52E9F26BD1A2E004E6AF6 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -388,7 +388,7 @@
 				16DE4A1B26D7F27A009E946E /* PreviewContextMenu.swift in Sources */,
 				1687433D26E082E5005313B1 /* VibrationTest.swift in Sources */,
 				16F3CFD326DEECF700A68C57 /* PKWithGestures.swift in Sources */,
-				16A52EB026BD1A2E004E6AF6 /* SwiftUI_TestApp.swift in Sources */,
+				16A52EB026BD1A2E004E6AF6 /* Test_SwiftUIApp.swift in Sources */,
 				1629D12226D551CE0009A5FB /* CenterBall.swift in Sources */,
 				1687430E26DFD61A005313B1 /* DataToParent.swift in Sources */,
 				164B1F0926DDA0EC00DA006D /* GestureRecognizers.swift in Sources */,
@@ -447,7 +447,7 @@
 				16E8921926D20D5100608C11 /* ReorderTile3.swift in Sources */,
 				16F65FBF26CA311800FB410D /* LifeCycleTest.swift in Sources */,
 				16DE4A1F26D870B7009E946E /* ReorderingElements.swift in Sources */,
-				16A52EB126BD1A2E004E6AF6 /* SwiftUI_TestApp.swift in Sources */,
+				16A52EB126BD1A2E004E6AF6 /* Test_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
